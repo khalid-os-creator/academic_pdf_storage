@@ -1,0 +1,704 @@
+{
+  "year-2": {
+    "semester 2": {
+      "analog": {
+        "exam": [
+          {
+            "name": "Exams.pdf",
+            "path": "year-2/semester 2/analog/exam/Exams.pdf",
+            "size": 11894944
+          },
+          {
+            "name": "نموذج انالوج_260608_115702.pdf",
+            "path": "year-2/semester 2/analog/exam/نموذج انالوج_260608_115702.pdf",
+            "size": 400425
+          },
+          {
+            "name": "نموذج انالوج.pdf",
+            "path": "year-2/semester 2/analog/exam/نموذج انالوج.pdf",
+            "size": 400376
+          },
+          {
+            "name": "Exam 2019 B2CS.pdf",
+            "path": "year-2/semester 2/analog/exam/Exam 2019 B2CS.pdf",
+            "size": 3175929
+          },
+          {
+            "name": "Exam 2021-2022 B2CS.pdf",
+            "path": "year-2/semester 2/analog/exam/Exam 2021-2022 B2CS.pdf",
+            "size": 478787
+          }
+        ],
+        "labs": [
+          {
+            "name": "Analog electronics  lab (1).pdf",
+            "path": "year-2/semester 2/analog/labs/Analog electronics  lab (1).pdf",
+            "size": 1034450
+          },
+          {
+            "name": "Analog lab (3) .pdf",
+            "path": "year-2/semester 2/analog/labs/Analog lab (3) .pdf",
+            "size": 496959
+          },
+          {
+            "name": "Analog electronics lab (2).pdf",
+            "path": "year-2/semester 2/analog/labs/Analog electronics lab (2).pdf",
+            "size": 702398
+          }
+        ],
+        "summaries": [
+          {
+            "name": "analog ch 1_2.pdf",
+            "path": "year-2/semester 2/analog/summaries/analog ch 1_2.pdf",
+            "size": 4234375
+          },
+          {
+            "name": "[ملخص_لاب_الانالوج]_B2IT.pdf",
+            "path": "year-2/semester 2/analog/summaries/[ملخص_لاب_الانالوج]_B2IT.pdf",
+            "size": 3371547
+          },
+          {
+            "name": "[ملخص_لاب_الانالوج]_B2IT_260608_115551.pdf",
+            "path": "year-2/semester 2/analog/summaries/[ملخص_لاب_الانالوج]_B2IT_260608_115551.pdf",
+            "size": 3368854
+          },
+          {
+            "name": "مكثفة انالوج.pdf",
+            "path": "year-2/semester 2/analog/summaries/مكثفة انالوج.pdf",
+            "size": 8085641
+          },
+          {
+            "name": "ملخص انالوج.pdf",
+            "path": "year-2/semester 2/analog/summaries/ملخص انالوج.pdf",
+            "size": 4383788
+          },
+          {
+            "name": "ملخص_فاروق_Analog_Electronic_B2IT_260608_115534.pdf",
+            "path": "year-2/semester 2/analog/summaries/ملخص_فاروق_Analog_Electronic_B2IT_260608_115534.pdf",
+            "size": 4380197
+          },
+          {
+            "name": "مكثفة انالوج (2).pdf",
+            "path": "year-2/semester 2/analog/summaries/مكثفة انالوج (2).pdf",
+            "size": 5319295
+          }
+        ]
+      },
+      "logic-design": {
+        "lessons": [
+          {
+            "name": "LD_Lesson_1_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_1_2025-2026.pdf",
+            "size": 3285793
+          },
+          {
+            "name": "LD_Lesson_2025-2026.pdf.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_2025-2026.pdf.pdf",
+            "size": 51329799
+          },
+          {
+            "name": "LD_Lesson_3_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_3_2025-2026.pdf",
+            "size": 2503257
+          },
+          {
+            "name": "LD_Lesson_5_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_5_2025-2026.pdf",
+            "size": 1818109
+          },
+          {
+            "name": "LD_Lesson_6_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_6_2025-2026.pdf",
+            "size": 2127726
+          },
+          {
+            "name": "LD_Lesson_7_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_7_2025-2026.pdf",
+            "size": 4832853
+          },
+          {
+            "name": "LD_Lesson_2_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_2_2025-2026.pdf",
+            "size": 3745574
+          },
+          {
+            "name": "LD_Lesson_8_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_8_2025-2026.pdf",
+            "size": 682875
+          },
+          {
+            "name": "LD_Lesson_4_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/lessons/LD_Lesson_4_2025-2026.pdf",
+            "size": 1294819
+          }
+        ],
+        "exam": [
+          {
+            "name": "LD-Exam2025.pdf",
+            "path": "year-2/semester 2/logic-design/exam/LD-Exam2025.pdf",
+            "size": 1676325
+          },
+          {
+            "name": "LD-Exam2017.pdf",
+            "path": "year-2/semester 2/logic-design/exam/LD-Exam2017.pdf",
+            "size": 1660859
+          },
+          {
+            "name": "LD-Exam2023.pdf",
+            "path": "year-2/semester 2/logic-design/exam/LD-Exam2023.pdf",
+            "size": 612193
+          },
+          {
+            "name": "LD-Exam2021.pdf",
+            "path": "year-2/semester 2/logic-design/exam/LD-Exam2021.pdf",
+            "size": 187744
+          },
+          {
+            "name": "LD-Exam2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/exam/LD-Exam2025-2026.pdf",
+            "size": 2123800
+          },
+          {
+            "name": "LD-Exam_2024.pdf",
+            "path": "year-2/semester 2/logic-design/exam/LD-Exam_2024.pdf",
+            "size": 1016176
+          }
+        ],
+        "references": [
+          {
+            "name": "دروس اللوجيك ديزاين مرتّب.pdf",
+            "path": "year-2/semester 2/logic-design/references/دروس اللوجيك ديزاين مرتّب.pdf",
+            "size": 122319
+          }
+        ],
+        "assignment": [
+          {
+            "name": "LD_Assignment_2025-2026.pdf",
+            "path": "year-2/semester 2/logic-design/assignment/LD_Assignment_2025-2026.pdf",
+            "size": 831465
+          },
+          {
+            "name": "kamal. logic.pdf",
+            "path": "year-2/semester 2/logic-design/assignment/kamal. logic.pdf",
+            "size": 325752
+          },
+          {
+            "name": "logic_assignment_A4.pdf",
+            "path": "year-2/semester 2/logic-design/assignment/logic_assignment_A4.pdf",
+            "size": 1181631
+          },
+          {
+            "name": "kamal logiczzzz_260423_181001.pdf",
+            "path": "year-2/semester 2/logic-design/assignment/kamal logiczzzz_260423_181001.pdf",
+            "size": 337614
+          },
+          {
+            "name": "LD_Assignment_Questions.pdf",
+            "path": "year-2/semester 2/logic-design/assignment/LD_Assignment_Questions.pdf",
+            "size": 55471
+          },
+          {
+            "name": "logic_design.pdf",
+            "path": "year-2/semester 2/logic-design/assignment/logic_design.pdf",
+            "size": 772909
+          }
+        ],
+        "summaries": [
+          {
+            "name": "logic_design_handbook_national.pdf",
+            "path": "year-2/semester 2/logic-design/summaries/logic_design_handbook_national.pdf",
+            "size": 88227
+          },
+          {
+            "name": "IntoD to Logic.pdf",
+            "path": "year-2/semester 2/logic-design/summaries/IntoD to Logic.pdf",
+            "size": 701710
+          },
+          {
+            "name": "حلول مسائل نماذج اللوجيك.pdf",
+            "path": "year-2/semester 2/logic-design/summaries/حلول مسائل نماذج اللوجيك.pdf",
+            "size": 1869121
+          }
+        ]
+      },
+      "data-structure": {
+        "lessons": [
+          {
+            "name": "DS_Lesson-4.pdf",
+            "path": "year-2/semester 2/data-structure/lessons/DS_Lesson-4.pdf",
+            "size": 5067811
+          },
+          {
+            "name": "DS_Lesson-5.pdf",
+            "path": "year-2/semester 2/data-structure/lessons/DS_Lesson-5.pdf",
+            "size": 1464108
+          },
+          {
+            "name": "Data Structure (6).pdf",
+            "path": "year-2/semester 2/data-structure/lessons/Data Structure (6).pdf",
+            "size": 3580604
+          },
+          {
+            "name": "Data Structure (2).pdf",
+            "path": "year-2/semester 2/data-structure/lessons/Data Structure (2).pdf",
+            "size": 5131933
+          },
+          {
+            "name": "Data Structure (5).pdf",
+            "path": "year-2/semester 2/data-structure/lessons/Data Structure (5).pdf",
+            "size": 3592355
+          },
+          {
+            "name": "Data Structure (1).pdf",
+            "path": "year-2/semester 2/data-structure/lessons/Data Structure (1).pdf",
+            "size": 2027331
+          },
+          {
+            "name": "Data Structure (8).pdf",
+            "path": "year-2/semester 2/data-structure/lessons/Data Structure (8).pdf",
+            "size": 4577481
+          },
+          {
+            "name": "DS_Lesson-1_2_3.pdf",
+            "path": "year-2/semester 2/data-structure/lessons/DS_Lesson-1_2_3.pdf",
+            "size": 61248019
+          },
+          {
+            "name": "Data Structure (3).pdf",
+            "path": "year-2/semester 2/data-structure/lessons/Data Structure (3).pdf",
+            "size": 2130906
+          },
+          {
+            "name": "Data Structure (9).pdf",
+            "path": "year-2/semester 2/data-structure/lessons/Data Structure (9).pdf",
+            "size": 2089389
+          },
+          {
+            "name": "Data Structure (4).pdf",
+            "path": "year-2/semester 2/data-structure/lessons/Data Structure (4).pdf",
+            "size": 2169759
+          }
+        ],
+        "exam": [
+          {
+            "name": "DS_Exam_Dr-Shada.pdf",
+            "path": "year-2/semester 2/data-structure/exam/DS_Exam_Dr-Shada.pdf",
+            "size": 4623534
+          },
+          {
+            "name": "data test with solve.pdf",
+            "path": "year-2/semester 2/data-structure/exam/data test with solve.pdf",
+            "size": 1176488
+          },
+          {
+            "name": "نماذج شذى اختبار Data.pdf",
+            "path": "year-2/semester 2/data-structure/exam/نماذج شذى اختبار Data.pdf",
+            "size": 858269
+          }
+        ],
+        "labs": [
+          {
+            "name": "DS_Lab-5_2024-2025.pdf",
+            "path": "year-2/semester 2/data-structure/labs/DS_Lab-5_2024-2025.pdf",
+            "size": 151996
+          },
+          {
+            "name": "DS_Lab-3_2024-2025.pdf",
+            "path": "year-2/semester 2/data-structure/labs/DS_Lab-3_2024-2025.pdf",
+            "size": 166133
+          },
+          {
+            "name": "Data Structure_Lab1.pdf",
+            "path": "year-2/semester 2/data-structure/labs/Data Structure_Lab1.pdf",
+            "size": 287306
+          },
+          {
+            "name": "DS_Lab-2_2024-2025.pdf",
+            "path": "year-2/semester 2/data-structure/labs/DS_Lab-2_2024-2025.pdf",
+            "size": 305801
+          },
+          {
+            "name": "DS_Lab-4_2024-2025.pdf",
+            "path": "year-2/semester 2/data-structure/labs/DS_Lab-4_2024-2025.pdf",
+            "size": 141279
+          },
+          {
+            "name": "DS_Lab-1.pdf",
+            "path": "year-2/semester 2/data-structure/labs/DS_Lab-1.pdf",
+            "size": 287306
+          }
+        ],
+        "assignment": [
+          {
+            "name": "DS_Assignment_2024-2025.pdf",
+            "path": "year-2/semester 2/data-structure/assignment/DS_Assignment_2024-2025.pdf",
+            "size": 1015183
+          }
+        ],
+        "summaries": [
+          {
+            "name": "ملخص محاضرة الاولى لداتا ستراكشر.pdf",
+            "path": "year-2/semester 2/data-structure/summaries/ملخص محاضرة الاولى لداتا ستراكشر.pdf",
+            "size": 2775628
+          },
+          {
+            "name": "convert to postfix by stack.pdf",
+            "path": "year-2/semester 2/data-structure/summaries/convert to postfix by stack.pdf",
+            "size": 2697051
+          },
+          {
+            "name": "ملخص infix , Prefix , postfix.pdf",
+            "path": "year-2/semester 2/data-structure/summaries/ملخص infix , Prefix , postfix.pdf",
+            "size": 324397
+          },
+          {
+            "name": "ملخص BST.pdf",
+            "path": "year-2/semester 2/data-structure/summaries/ملخص BST.pdf",
+            "size": 1002334
+          }
+        ]
+      },
+      "math-4": {
+        "summaries": [
+          {
+            "name": "Math-4_Summary_4-Yaqub.pdf",
+            "path": "year-2/semester 2/math-4/summaries/Math-4_Summary_4-Yaqub.pdf",
+            "size": 2013787
+          },
+          {
+            "name": "Math-4_Summary_1-Yaqub.pdf",
+            "path": "year-2/semester 2/math-4/summaries/Math-4_Summary_1-Yaqub.pdf",
+            "size": 6429932
+          },
+          {
+            "name": "Math-4_Summary_3-Yaqub.pdf",
+            "path": "year-2/semester 2/math-4/summaries/Math-4_Summary_3-Yaqub.pdf",
+            "size": 5333718
+          },
+          {
+            "name": "Math-4_Summary_8-Yaqub.pdf",
+            "path": "year-2/semester 2/math-4/summaries/Math-4_Summary_8-Yaqub.pdf",
+            "size": 4537364
+          },
+          {
+            "name": "Math-4_Summary_9-Yaqub.pdf",
+            "path": "year-2/semester 2/math-4/summaries/Math-4_Summary_9-Yaqub.pdf",
+            "size": 2691660
+          },
+          {
+            "name": "Math-4_Summary_2-Yaqub.pdf",
+            "path": "year-2/semester 2/math-4/summaries/Math-4_Summary_2-Yaqub.pdf",
+            "size": 3162054
+          },
+          {
+            "name": "Math-4_Summary_5-Yaqub.pdf",
+            "path": "year-2/semester 2/math-4/summaries/Math-4_Summary_5-Yaqub.pdf",
+            "size": 3993826
+          }
+        ]
+      },
+      "computer-architecture": {
+        "lessons": [
+          {
+            "name": "CA_Lesson_1_Dr-Shada.pdf",
+            "path": "year-2/semester 2/computer-architecture/lessons/CA_Lesson_1_Dr-Shada.pdf",
+            "size": 584027
+          },
+          {
+            "name": "CA_Lesson_4_Dr-Shada.pdf.pdf",
+            "path": "year-2/semester 2/computer-architecture/lessons/CA_Lesson_4_Dr-Shada.pdf.pdf",
+            "size": 1107322
+          },
+          {
+            "name": "CA_Lesson_7_Dr-Shada.pdf",
+            "path": "year-2/semester 2/computer-architecture/lessons/CA_Lesson_7_Dr-Shada.pdf",
+            "size": 195128
+          },
+          {
+            "name": "CA_Lesson_3_Dr-Shada.pdf",
+            "path": "year-2/semester 2/computer-architecture/lessons/CA_Lesson_3_Dr-Shada.pdf",
+            "size": 1039272
+          },
+          {
+            "name": "CA_Lesson_6_Dr-Shada.pdf",
+            "path": "year-2/semester 2/computer-architecture/lessons/CA_Lesson_6_Dr-Shada.pdf",
+            "size": 151383
+          },
+          {
+            "name": "CA_Lesson_5_Dr-Shada.pdf",
+            "path": "year-2/semester 2/computer-architecture/lessons/CA_Lesson_5_Dr-Shada.pdf",
+            "size": 458929
+          },
+          {
+            "name": "CA_Lesson_2_Dr-Shada.pdf",
+            "path": "year-2/semester 2/computer-architecture/lessons/CA_Lesson_2_Dr-Shada.pdf",
+            "size": 822829
+          }
+        ],
+        "exam": [
+          {
+            "name": "CA-Exam-2025(Solved).pdf",
+            "path": "year-2/semester 2/computer-architecture/exam/CA-Exam-2025(Solved).pdf",
+            "size": 1988473
+          }
+        ],
+        "summaries": [
+          {
+            "name": "Computer Architecture and Organization. lecture 1.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/Computer Architecture and Organization. lecture 1.pdf",
+            "size": 1582124
+          },
+          {
+            "name": "المحذوف من الملزمة الثانية Computer architecture.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/المحذوف من الملزمة الثانية Computer architecture.pdf",
+            "size": 2116855
+          },
+          {
+            "name": "CA_Summary(Arabic).pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/CA_Summary(Arabic).pdf",
+            "size": 159767
+          },
+          {
+            "name": "المحذوف من الملزمة السادسة computer architecture.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/المحذوف من الملزمة السادسة computer architecture.pdf",
+            "size": 3311411
+          },
+          {
+            "name": "المحذوف من الملزمة الثالثة computer architecture.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/المحذوف من الملزمة الثالثة computer architecture.pdf",
+            "size": 5011279
+          },
+          {
+            "name": "المحذوف من الملزمة الأولى computer architecture.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/المحذوف من الملزمة الأولى computer architecture.pdf",
+            "size": 1479668
+          },
+          {
+            "name": "Computer Architecture مترجم.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/Computer Architecture مترجم.pdf",
+            "size": 2768594
+          },
+          {
+            "name": "المحذوف من الملزمة السابعة computer architecture.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/المحذوف من الملزمة السابعة computer architecture.pdf",
+            "size": 5922332
+          },
+          {
+            "name": "المحذوف من الملزمة الرابعة computer architecture.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/المحذوف من الملزمة الرابعة computer architecture.pdf",
+            "size": 4169388
+          },
+          {
+            "name": "المحذوف من الملزمة الخامسة computer architecture.pdf",
+            "path": "year-2/semester 2/computer-architecture/summaries/المحذوف من الملزمة الخامسة computer architecture.pdf",
+            "size": 5148566
+          }
+        ]
+      },
+      "communication-system": {
+        "lessons": [
+          {
+            "name": "principal of communication systems (3).pdf",
+            "path": "year-2/semester 2/communication-system/lessons/principal of communication systems (3).pdf",
+            "size": 4033679
+          },
+          {
+            "name": "principal of communication systems (2).pdf",
+            "path": "year-2/semester 2/communication-system/lessons/principal of communication systems (2).pdf",
+            "size": 3665152
+          },
+          {
+            "name": "principal of communication systems (4).pdf",
+            "path": "year-2/semester 2/communication-system/lessons/principal of communication systems (4).pdf",
+            "size": 4553918
+          },
+          {
+            "name": "principal of communication systems (5).pdf",
+            "path": "year-2/semester 2/communication-system/lessons/principal of communication systems (5).pdf",
+            "size": 4240576
+          },
+          {
+            "name": "Principal of communication systems (7).pdf",
+            "path": "year-2/semester 2/communication-system/lessons/Principal of communication systems (7).pdf",
+            "size": 4997374
+          },
+          {
+            "name": "CS_Lesson_1_Dr-Shada.pdf",
+            "path": "year-2/semester 2/communication-system/lessons/CS_Lesson_1_Dr-Shada.pdf",
+            "size": 25782571
+          },
+          {
+            "name": "principal of communication systems (8).pdf",
+            "path": "year-2/semester 2/communication-system/lessons/principal of communication systems (8).pdf",
+            "size": 4365169
+          },
+          {
+            "name": "principal of communication systems (6).pdf",
+            "path": "year-2/semester 2/communication-system/lessons/principal of communication systems (6).pdf",
+            "size": 6689708
+          },
+          {
+            "name": "CS_Lesson_3_Dr-Shada.pdf",
+            "path": "year-2/semester 2/communication-system/lessons/CS_Lesson_3_Dr-Shada.pdf",
+            "size": 2883189
+          },
+          {
+            "name": "principal of communication systems  (1).pdf",
+            "path": "year-2/semester 2/communication-system/lessons/principal of communication systems  (1).pdf",
+            "size": 3247842
+          },
+          {
+            "name": "CS_Lesson_2_Dr-Shada.pdf",
+            "path": "year-2/semester 2/communication-system/lessons/CS_Lesson_2_Dr-Shada.pdf",
+            "size": 13153725
+          }
+        ],
+        "exam": [
+          {
+            "name": "CS_Exam_Dr-Shada_New.pdf",
+            "path": "year-2/semester 2/communication-system/exam/CS_Exam_Dr-Shada_New.pdf",
+            "size": 838176
+          },
+          {
+            "name": "CS_Exam_Dr-Shada_2024-2025.pdf",
+            "path": "year-2/semester 2/communication-system/exam/CS_Exam_Dr-Shada_2024-2025.pdf",
+            "size": 2147805
+          },
+          {
+            "name": "CS_Exam_Dr-Shada-2025.pdf",
+            "path": "year-2/semester 2/communication-system/exam/CS_Exam_Dr-Shada-2025.pdf",
+            "size": 1977006
+          },
+          {
+            "name": "CS_Exam_1_Dr-Shada.pdf",
+            "path": "year-2/semester 2/communication-system/exam/CS_Exam_1_Dr-Shada.pdf",
+            "size": 857465
+          },
+          {
+            "name": "CS_Exam_Dr-Shada_2024(solved).pdf",
+            "path": "year-2/semester 2/communication-system/exam/CS_Exam_Dr-Shada_2024(solved).pdf",
+            "size": 2882829
+          },
+          {
+            "name": "CS_Exam-2025(solved).pdf",
+            "path": "year-2/semester 2/communication-system/exam/CS_Exam-2025(solved).pdf",
+            "size": 945911
+          }
+        ],
+        "assignment": [
+          {
+            "name": "COMMUNICATION SYSTEM.pdf",
+            "path": "year-2/semester 2/communication-system/assignment/COMMUNICATION SYSTEM.pdf",
+            "size": 865989
+          }
+        ],
+        "summaries": [
+          {
+            "name": "POcommunication_260502_143255.pdf",
+            "path": "year-2/semester 2/communication-system/summaries/POcommunication_260502_143255.pdf",
+            "size": 6782871
+          },
+          {
+            "name": "CS_Summry_كل_المقارنات_الأساسية.pdf",
+            "path": "year-2/semester 2/communication-system/summaries/CS_Summry_كل_المقارنات_الأساسية.pdf",
+            "size": 215749
+          },
+          {
+            "name": "ملخص ال AM.PDF",
+            "path": "year-2/semester 2/communication-system/summaries/ملخص ال AM.PDF",
+            "size": 13096309
+          },
+          {
+            "name": "ملخص التسجيل 1 ل communication systems معهد .pdf",
+            "path": "year-2/semester 2/communication-system/summaries/ملخص التسجيل 1 ل communication systems معهد .pdf",
+            "size": 4448115
+          },
+          {
+            "name": "CS_Summary_Diagram-Chapter-1.pdf",
+            "path": "year-2/semester 2/communication-system/summaries/CS_Summary_Diagram-Chapter-1.pdf",
+            "size": 2306556
+          },
+          {
+            "name": "Principle of Communication_260502_143223.pdf",
+            "path": "year-2/semester 2/communication-system/summaries/Principle of Communication_260502_143223.pdf",
+            "size": 523338
+          },
+          {
+            "name": "CS_Summary_Diagram-Chapter-2.pdf",
+            "path": "year-2/semester 2/communication-system/summaries/CS_Summary_Diagram-Chapter-2.pdf",
+            "size": 591712
+          }
+        ]
+      }
+    }
+  },
+  "year-1": {
+    "semester-1": {
+      "c++": {
+        "lessons": [
+          {
+            "name": "ملزمة C++.pdf",
+            "path": "year-1/semester-1/c++/lessons/ملزمة C++.pdf",
+            "size": 25800261
+          }
+        ]
+      },
+      "math-1": {
+        "lessons": [
+          {
+            "name": "Functions of two or more variables.pdf",
+            "path": "year-1/semester-1/math-1/lessons/Functions of two or more variables.pdf",
+            "size": 13085000
+          }
+        ],
+        "summaries": [
+          {
+            "name": "المتجهات كامل يعقوب.pdf",
+            "path": "year-1/semester-1/math-1/summaries/المتجهات كامل يعقوب.pdf",
+            "size": 4839096
+          },
+          {
+            "name": "ملخص مهم  حلو بإذن الله في الصورة القطبية للعدد مركب.pdf",
+            "path": "year-1/semester-1/math-1/summaries/ملخص مهم  حلو بإذن الله في الصورة القطبية للعدد مركب.pdf",
+            "size": 4441367
+          },
+          {
+            "name": "الدوال ذات متغيرين او أكثر  والمشتقة الجزئية.pdf",
+            "path": "year-1/semester-1/math-1/summaries/الدوال ذات متغيرين او أكثر  والمشتقة الجزئية.pdf",
+            "size": 2251800
+          },
+          {
+            "name": "حصص يعقوب.pdf",
+            "path": "year-1/semester-1/math-1/summaries/حصص يعقوب.pdf",
+            "size": 21518656
+          },
+          {
+            "name": "المعادلات الخطية كامل يعقوب.pdf",
+            "path": "year-1/semester-1/math-1/summaries/المعادلات الخطية كامل يعقوب.pdf",
+            "size": 3134636
+          }
+        ]
+      }
+    },
+    "semester-2": {
+      "c++": {
+        "lessons": [
+          {
+            "name": "Dr_Hind.pdf",
+            "path": "year-1/semester-2/c++/lessons/Dr_Hind.pdf",
+            "size": 13191015
+          }
+        ]
+      },
+      "electric-circuit": {
+        "lessons": [
+          {
+            "name": "Dr.Husain_Ali.pdf",
+            "path": "year-1/semester-2/electric-circuit/lessons/Dr.Husain_Ali.pdf",
+            "size": 76919014
+          }
+        ]
+      }
+    }
+  }
+}
